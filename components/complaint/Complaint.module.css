@@ -1,0 +1,31 @@
+.Complaint{
+    background-color: #FDFEFE;
+    margin: 10px auto;
+    box-shadow: 0 5px 15px -5px rgba(0, 0, 0, 0.2);
+    padding: 10px 10px;
+    border-radius: 5px;
+    /* margin: 10px; */
+    padding: 20px;
+    width: 70%;
+    align-items: left;
+}
+
+.ComplaintFlex{
+    display: block;
+    /* flex-direction: row; */
+    margin: 20px auto;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    /* width: 70%; */
+}
+
+.ComplaintFlex > div {
+    /* color: white; */
+    /* margin: 5px 10px; */
+    /* text-align: center; */
+    font-size: 15px;
+    /* padding: 10px; */
+    /* align-items: center; */
+    width: 30%;
+    /* background-color: green; */
+  }
